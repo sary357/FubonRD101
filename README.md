@@ -2,17 +2,9 @@
 For Fubon new comer to know
 
 ## Pemrissions
-> In Fubon bank, we need to apply EVERYTHING. I just try list down all items we have to apply.
-
->> In eHR
-
->>> review all items including your information, your familiy informaiton, ..., and so on.
-
->>> the most important is assign substitute in eHR system. 
-
->> apply IPs in Nei-Hu building and Ren'ai Rd building. 
-
->> also associate Mac address of laptop and IPs.
+- In Fubon bank, we need to apply EVERYTHING. I just try list down all items we have to apply.
+    * apply IPs in Nei-Hu building and Ren'ai Rd building. 
+    * also associate Mac address of laptop and IPs.
 
 >> allow mailbox to receive emails from non-Fubon senders and send emails to non-Fubon recipients.
 
@@ -31,3 +23,7 @@ For Fubon new comer to know
 >> development/testing environment access permission.
 
 >> it could be better to have 吃到飽 on your own cellphone network. This will improve your work performance when you leave office.
+
+## In eHR
+- review all items including your information, your familiy informaiton, ..., and so on.
+- the most important is assign substitute in eHR system. 

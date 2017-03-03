@@ -16,5 +16,15 @@ For Fubon new comer to know
     * it could be better to have 吃到飽 on your cellphone network. This will improve your work performance when you leave office.
 
 ## In eHR
-- review all items including your information, your familiy informaiton, ..., and so on.
-- the most important is assign substitute in eHR system. 
+- review all items including your information, your familiy informaiton, ..., and so on. 
+- the most important is set up substitutes in eHR system. 
+
+## About badge
+- In general, this takes several weeks. You need to apply temporary badge. Please ask your supervisor to support.
+
+## About phone
+- You phone number will be ready within 2 weeks. (At least mine was ready within 2 weeks.)
+
+## Taxi fee
+- 要去其他地方, 可以使用車單, 這樣就不用自己付費, 可以詢問主管那邊可以拿, 但目前我們只跟志英計程車簽約, 可以先叫志英計程車
+- 如果直接搭乘, 可以透過總管系統申請車資, 但是專案預算文號需要問一下才知道

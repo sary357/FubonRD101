@@ -4,6 +4,12 @@ For Fubon new comer to know
 ## Pemrissions
 > In Fubon bank, we need to apply EVERYTHING. I just try list down all items we have to apply.
 
+>> In eHR
+
+>>> review all items including your information, your familiy informaiton, ..., and so on.
+
+>>> the most important is assign substitute in eHR system. 
+
 >> apply IPs in Nei-Hu building and Ren'ai Rd building. 
 
 >> also associate Mac address of laptop and IPs.

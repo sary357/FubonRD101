@@ -12,7 +12,7 @@ For Fubon new comer to know
     * allow to modify IPs on ethernet card.
     * make sure wireless card is allowed to access access point. btw, there is NO access point in Fubon officially. This is only for us to connect access point when we leave office.
     * allow to access confluence page (http://172.17.240.93). Also, we need to access some project pages in confluence.
-    * development/testing environment access permission.
+    * development/testing environment access permission - account & firewall rules.
     * it could be better to have 吃到飽 on your cellphone network. This will improve your work performance when you leave office.
 
 ## In eHR
@@ -21,10 +21,11 @@ For Fubon new comer to know
 
 ## About badge
 - In general, this takes several weeks. You need to apply temporary badge. Please ask your supervisor to support.
+- Access provision is per building, requires different application form for each location.
 
 ## About phone
 - You phone number will be ready within 2 weeks. (At least mine was ready within 2 weeks.)
 
 ## Taxi fee
 - 要去其他地方, 可以使用車單, 這樣就不用自己付費, 可以詢問主管那邊可以拿, 但目前我們只跟志英計程車簽約, 可以先叫志英計程車
-- 如果直接搭乘, 可以透過總管系統申請車資, 但是專案預算文號需要問一下才知道
+- 如果直接搭乘, 可以透過總管系統申請車資

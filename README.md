@@ -8,7 +8,6 @@ For Fubon new comer to know
     * allow mailbox to receive emails from non-Fubon senders and send emails to non-Fubon recipients.
     * allow mobile devices to receive emails and sync calendar.
     * install 64-bit windows on laptop instead of default 32-bit windows. some applications only have 64 bit version.
-    * allow to install ANY applications on laptop. otherwise, it may take a long long time if we find portable version of each application.
     * allow to modify IPs on ethernet card.
     * make sure wireless card is allowed to access access point. btw, there is NO access point in Fubon officially. This is only for us to connect access point when we leave office.
     * allow to access confluence page (http://172.17.240.93). Also, we need to access some project pages in confluence.

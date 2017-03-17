@@ -26,7 +26,7 @@ For Fubon new comer to know
 - You phone number will be ready within 2 weeks. (At least mine was ready within 2 weeks.)
 
 ## About version control
-### On windows (how to use git)
+### how to use git on windows
 - Please download 32-bit or 64 bit git portable version from (https://git-scm.com/download/win)
 - Unzip the file after downloading
 - After extracting the file, you will get a folder called "PortableGit". Please go into the folder "PortableGit"
@@ -37,7 +37,6 @@ For Fubon new comer to know
 fatal: unable to access 'https://github.com/sary357/FubonRD101.git/': SSL certificate problem: self signed certificate in certificate chain
 ```
 - A: Please choose one of the following commands
-
 ```
  # If you would like disable ssl verification always
  $ git config http.sslVerify false

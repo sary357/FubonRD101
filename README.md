@@ -25,6 +25,9 @@ For Fubon new comer to know
 ## About phone
 - You phone number will be ready within 2 weeks. (At least mine was ready within 2 weeks.)
 
+## About version control
+- git git git
+
 ## Taxi fee
 - 要去其他地方, 可以使用車單, 這樣就不用自己付費, 可以詢問主管那邊可以拿, 但目前我們只跟志英計程車簽約, 可以先叫志英計程車
 - 如果直接搭乘, 可以透過總管系統申請車資

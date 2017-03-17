@@ -26,11 +26,27 @@ For Fubon new comer to know
 - You phone number will be ready within 2 weeks. (At least mine was ready within 2 weeks.)
 
 ## About version control
-### On windows
+### On windows (how to use git)
 - Please download 32-bit or 64 bit git portable version from (https://git-scm.com/download/win)
 - Unzip the file after downloading
 - After extracting the file, you will get a folder called "PortableGit". Please go into the folder "PortableGit"
 - If you're familiar with Unix-like shell, please execute the command "git-bash.ext". If you would like to see windows prompt, please execute the command "git-cmd.exe" by clicking the icon directly.
+### Q&A
+- Q: I may get the following error message when executing the command "git clone" or "git push" 
+```
+fatal: unable to access 'https://github.com/sary357/FubonRD101.git/': SSL certificate problem: self signed certificate in certificate chain
+```
+- A: Please run the command 
+  1. If you would like disable ssl verification always
+```
+ git config http.sslVerify false
+```
+  2. If you just hope to disable this time
+```
+ git -c http.sslVerify=false clone http://aaaa.bbb.ccc/aa.git
+ or
+ git -c  http.sslVerify=false push
+```
 
 ## Taxi fee
 - 要去其他地方, 可以使用車單, 這樣就不用自己付費, 可以詢問主管那邊可以拿, 但目前我們只跟志英計程車簽約, 可以先叫志英計程車

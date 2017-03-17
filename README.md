@@ -41,6 +41,7 @@ fatal: unable to access 'https://github.com/sary357/FubonRD101.git/': SSL certif
 ```
  git config http.sslVerify false
 ```
+
   * If you just hope to disable this time
 ```
  git -c http.sslVerify=false clone http://aaaa.bbb.ccc/aa.git

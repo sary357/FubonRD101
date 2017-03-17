@@ -37,16 +37,15 @@ For Fubon new comer to know
 fatal: unable to access 'https://github.com/sary357/FubonRD101.git/': SSL certificate problem: self signed certificate in certificate chain
 ```
 - A: Please choose one of the following commands
-  * If you would like disable ssl verification always
-```
- git config http.sslVerify false
-```
 
-  * If you just hope to disable this time
 ```
- git -c http.sslVerify=false clone http://aaaa.bbb.ccc/aa.git
+ # If you would like disable ssl verification always
+ $ git config http.sslVerify false
+
+ # If you just hope to disable this time
+ $ git -c http.sslVerify=false clone http://aaaa.bbb.ccc/aa.git
  or
- git -c  http.sslVerify=false push
+ $ git -c  http.sslVerify=false push
 ```
 
 ## Taxi fee

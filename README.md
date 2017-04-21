@@ -47,6 +47,10 @@ fatal: unable to access 'https://github.com/sary357/FubonRD101.git/': SSL certif
  $ git -c  http.sslVerify=false push
 ```
 
+## Shared folder
+- 點選"電腦" -> 在 "搜尋程式及檔案" 打入 \\172.17.22.181\資料分析應用科
+- Please read the file "README.txt" first
+
 ## Taxi fee
 - 要去其他地方, 可以使用車單, 這樣就不用自己付費, 可以詢問主管那邊可以拿, 但目前我們只跟志英計程車簽約, 可以先叫志英計程車
 - 如果直接搭乘, 可以透過總管系統申請車資

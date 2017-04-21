@@ -48,7 +48,7 @@ fatal: unable to access 'https://github.com/sary357/FubonRD101.git/': SSL certif
 ```
 
 ## Shared folder
-- 點選"電腦" -> 在 "搜尋程式及檔案" 打入 \\172.17.22.181\資料分析應用科
+- 點選"電腦" -> 在 "搜尋程式及檔案" 打入 \\\\172.17.22.181\資料分析應用科
 - Please read the file "README.txt" first
 
 ## Taxi fee
